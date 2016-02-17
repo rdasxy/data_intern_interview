@@ -12,7 +12,7 @@ For the three questions on data cleanup, please create a new source file in that
 
 Download or clone the repository locally, complete as many questions as you are able, compress the
 directories containing your answers, and email your submission to **das at mysidewalk dot com and
-joel at mysidewalk dot com**.
+achoquette at mysidewalk dot com**.
 
 Please do not fork, post a pull request, or in any other way publicly expose your answers. This is
 further covered in the license included with this repository.
